@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "jumbotron",
-    "slug": "jumbotron",
+    "name": "create-expo-js-template",
+    "slug": "create-expo-js-template",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
